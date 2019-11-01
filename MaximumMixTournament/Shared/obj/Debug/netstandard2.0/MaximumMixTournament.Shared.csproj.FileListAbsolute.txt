@@ -1,0 +1,8 @@
+D:\Sven\Documents\Visual Studio Projects\MaximumMixTournament\MaximumMixTournament\Shared\bin\Debug\netstandard2.0\MaximumMixTournament.Shared.deps.json
+D:\Sven\Documents\Visual Studio Projects\MaximumMixTournament\MaximumMixTournament\Shared\bin\Debug\netstandard2.0\MaximumMixTournament.Shared.dll
+D:\Sven\Documents\Visual Studio Projects\MaximumMixTournament\MaximumMixTournament\Shared\bin\Debug\netstandard2.0\MaximumMixTournament.Shared.pdb
+D:\Sven\Documents\Visual Studio Projects\MaximumMixTournament\MaximumMixTournament\Shared\obj\Debug\netstandard2.0\MaximumMixTournament.Shared.csprojAssemblyReference.cache
+D:\Sven\Documents\Visual Studio Projects\MaximumMixTournament\MaximumMixTournament\Shared\obj\Debug\netstandard2.0\MaximumMixTournament.Shared.AssemblyInfoInputs.cache
+D:\Sven\Documents\Visual Studio Projects\MaximumMixTournament\MaximumMixTournament\Shared\obj\Debug\netstandard2.0\MaximumMixTournament.Shared.AssemblyInfo.cs
+D:\Sven\Documents\Visual Studio Projects\MaximumMixTournament\MaximumMixTournament\Shared\obj\Debug\netstandard2.0\MaximumMixTournament.Shared.dll
+D:\Sven\Documents\Visual Studio Projects\MaximumMixTournament\MaximumMixTournament\Shared\obj\Debug\netstandard2.0\MaximumMixTournament.Shared.pdb
